@@ -2,7 +2,7 @@ import './Banner.css'
 
 const Banner = () => {
   return (
-    <div className='flex flex-col items-center justify-center banner h-[100vh] -mt-32'>
+    <div className='flex flex-col items-center justify-center banner h-[100vh] -mt-32 md:h-[80vh]'>
       <h1 className="text-4xl font-bold text-center">I Grow By Helping People In Need</h1>
     <div>
         <form className='flex items-center mt-8'>
