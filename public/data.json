@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/LthBBWK/Food.png",
+      "title": "Clean Water Initiative",
+      "category": "Health",
+      "categoryBackgroundColor": "#2c3e50",
+      "cardColor": "#34495e",
+      "textColor": "#ecf0f1",
+      "description": "The Clean Water Initiative aims to transform the lives of communities by ensuring access to clean and safe drinking water. Your generous donation will be directed towards the construction of water purification facilities, installation of water wells, and the implementation of sustainable water management practices. Together, we can make a lasting impact on the health and well-being of those in need.",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/hcP2qdR/Health.png",
+      "title": "Food Security Program",
+      "category": "Food",
+      "categoryBackgroundColor": "#922b21",
+      "cardColor": "#a93226",
+      "textColor": "#ecf0f1",
+      "description": "Our Food Security Program addresses the urgent issue of hunger and malnutrition in vulnerable communities. Your contribution will support the establishment of community gardens, food banks, and nutrition education programs. By providing nutritious meals and empowering individuals with the knowledge to make healthy choices, we can create a future free from hunger and food insecurity.",
+      "price": 50
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/RCMH6d7/Education.png",
+      "title": "Education Scholarships",
+      "category": "Education",
+      "categoryBackgroundColor": "#27ae60",
+      "cardColor": "#2ecc71",
+      "textColor": "#2c3e50",
+      "description": "The Education Scholarships program aims to break barriers and open doors to quality education for underprivileged students. Your generous contribution will fund scholarships, learning materials, and mentorship programs. By investing in education, we empower the next generation with the tools and knowledge they need to build a brighter future for themselves and their communities.",
+      "price": 75
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/vzcQ7xg/Clothing.png",
+      "title": "Medical Aid Program",
+      "category": "Health",
+      "categoryBackgroundColor": "#d35400",
+      "cardColor": "#e67e22",
+      "textColor": "#2c3e50",
+      "description": "The Medical Aid Program provides critical healthcare services to individuals in need. Your donation will support medical clinics, supply essential medications, and fund outreach initiatives. Together, we can ensure that everyone has access to quality healthcare, regardless of their circumstances. Your contribution will make a tangible difference in saving lives and improving well-being.",
+      "price": 80
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/LthBBWK/Food.png",
+      "title": "Shelter for Homeless",
+      "category": "Clothing",
+      "categoryBackgroundColor": "#8e44ad",
+      "cardColor": "#9b59b6",
+      "textColor": "#ecf0f1",
+      "description": "Our Shelter for Homeless program provides a lifeline for individuals and families experiencing homelessness. Your support will go towards the construction and maintenance of shelters, as well as the provision of essential amenities. By offering a safe and stable environment, we empower those in need to regain control of their lives and work towards a brighter, more secure future.",
+      "price": 60
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/hcP2qdR/Health.png",
+      "title": "Environmental Conservation",
+      "category": "Clothing",
+      "categoryBackgroundColor": "#218c74",
+      "cardColor": "#27ae60",
+      "textColor": "#2c3e50",
+      "description": "The Environmental Conservation program is dedicated to safeguarding our planet's natural resources and biodiversity. Your contribution will support reforestation efforts, wildlife conservation, and sustainable practices. By taking action now, we can protect and preserve the environment for future generations, ensuring a harmonious coexistence between humanity and nature.",
+      "price": 70
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/RCMH6d7/Education.png",
+      "title": "Empowerment for Women",
+      "category": "Clothing",
+      "categoryBackgroundColor": "#c0392b",
+      "cardColor": "#e74c3c",
+      "textColor": "#ecf0f1",
+      "description": "Empowerment for Women is a vital initiative aimed at breaking down barriers and creating opportunities for women's advancement. Your contribution will support vocational training, leadership development, and access to resources for women entrepreneurs. Together, we can foster an inclusive society where women thrive, lead, and contribute to the progress of their communities.",
+      "price": 90
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/vzcQ7xg/Clothing.png",
+      "title": "Disaster Relief Fund",
+      "category": "Health",
+      "categoryBackgroundColor": "#c0392b",
+      "cardColor": "#e74c3c",
+      "textColor": "#ecf0f1",
+      "description": "The Disaster Relief Fund provides rapid assistance to communities affected by natural disasters. Your generous donation will be channeled towards emergency supplies, medical aid, and rebuilding efforts. Together, we can provide critical support to those facing the immediate aftermath of a disaster, helping them rebuild their lives and communities.",
+      "price": 120
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/LthBBWK/Food.png",
+      "title": "Youth Mentorship Program",
+      "category": "Education",
+      "categoryBackgroundColor": "#2980b9",
+      "cardColor": "#3498db",
+      "textColor": "#2c3e50",
+      "description": "The Youth Mentorship Program empowers young individuals by providing them with guidance, mentorship, and opportunities for personal growth. Your contribution will support mentorship initiatives, skill-building workshops, and access to educational resources. Together, we can inspire and equip the next generation to realize their full potential and become leaders in their communities.",
+      "price": 100
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/hcP2qdR/Health.png",
+      "title": "Animal Welfare Initiative",
+      "category": "Clothing",
+      "categoryBackgroundColor": "#27ae60",
+      "cardColor": "#2ecc71",
+      "textColor": "#2c3e50",
+      "description": "The Animal Welfare Initiative is dedicated to promoting the well-being and protection of animals. Your contribution will support animal rescue operations, advocacy for animal rights, and initiatives to create safe habitats. By taking action, we can ensure that animals are treated with the care, respect, and dignity they deserve in our shared world.",
+      "price": 70
+    },
+    {
+      "id": 11,
+      "img": "https://i.ibb.co/RCMH6d7/Education.png",
+      "title": "Community Development",
+      "category": "Education",
+      "categoryBackgroundColor": "#d35400",
+      "cardColor": "#e67e22",
+      "textColor": "#2c3e50",
+      "description": "The Community Development program focuses on uplifting and improving local communities. Your contribution will support projects related to infrastructure, education, and economic empowerment. Together, we can create vibrant and sustainable communities where individuals and families can thrive and prosper.",
+      "price": 90
+    },
+    {
+      "id": 12,
+      "img": "https://i.ibb.co/vzcQ7xg/Clothing.png",
+      "title": "Mental Health Awareness",
+      "category": "Health",
+      "categoryBackgroundColor": "#6c3483",
+      "cardColor": "#7d3c98",
+      "textColor": "#ecf0f1",
+      "description": "Promoting Mental Health Awareness is essential in creating a society that prioritizes mental well-being. Your contribution will support awareness campaigns, access to mental health resources, and initiatives to reduce stigma. Together, we can create a supportive environment where individuals struggling with mental health challenges feel understood, accepted, and empowered on their journey to recovery.",
+      "price": 80
+    }
+  ]
+  

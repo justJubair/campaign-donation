@@ -1,0 +1,8 @@
+.banner{
+    margin-top: -6rem;
+    background-image: url('https://i.ibb.co/Fw8D395/pexels-rdne-stock-project-6646918.jpg'), linear-gradient(rgba(255, 255, 255, 0.727),rgba(255, 255, 255, 0.5));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
