@@ -1,10 +1,13 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable react/no-unescaped-entities */
 
+import { useNavigate } from "react-router-dom";
+
 
 const HomeCard = ({ card }) => {
  
   const {
+    id,
     category,
     categoryBackgroundColor,
     img,
@@ -12,7 +15,7 @@ const HomeCard = ({ card }) => {
     textColor,
     title,
   } = card;
-
+  const navigate = useNavigate()
   const cardStyle = {
     backgroundColor: cardColor
   }
@@ -23,8 +26,11 @@ const HomeCard = ({ card }) => {
   const titleStyle = {
     color: textColor
   }
+  const handleDetails = ()=>{
+    navigate(`details/${id}`)
+  }
   return (
-   <div style={cardStyle} className='rounded-lg'>
+   <div onClick={handleDetails} style={cardStyle} className='rounded-lg'>
     <img className="w-full" src={img} alt="" />
     <div className="px-2 py-4">
     <span style={categoryStyle} className="badge font-bold border-none p-4 m-2">{category}</span>
