@@ -30,8 +30,8 @@ const Statistics = () => {
   };
   return (
     <div className=" max-w-screen-xl mx-auto p-4 mt-2">
-      <div>
-        <ResponsiveContainer width="100%" height={500}>
+      <div className="">
+        <ResponsiveContainer width="100%" height={260}>
           <PieChart >
             <Pie
               dataKey="value"
@@ -39,7 +39,7 @@ const Statistics = () => {
               data={data01}
               cx="50%"
               cy="50%"
-              outerRadius={180}
+              outerRadius={95}
               fill="#8884d8"
               label
             >
@@ -56,13 +56,13 @@ const Statistics = () => {
         </ResponsiveContainer>
       </div>
       <div className="flex justify-center gap-10">
-        <div className="flex gap-2">
+        <div className="flex flex-col items-center gap-2 md:flex-row">
           <p className="font-semibold">Your Donation</p>
-          <span className="px-10" style={yourDonationColor}></span>
+          <span className="px-10 p-4" style={yourDonationColor}></span>
         </div>
-        <div className="flex gap-2">
+        <div className="flex flex-col items-center gap-2 md:flex-row">
           <p className="font-semibold">Total Donation</p>
-          <span className="px-10" style={totalDonationColor}></span>
+          <span className="px-10 p-4" style={totalDonationColor}></span>
         </div>
       </div>
     </div>
